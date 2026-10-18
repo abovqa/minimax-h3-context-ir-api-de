@@ -1,0 +1,15 @@
+{
+  "id": "MiniMax-H3-Context-IR",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-18T06:39:51Z",
+  "prices": {
+    "default": {
+      "list": 0.1,
+      "effective": 0.08
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.0343 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/minimax-h3"
+}
